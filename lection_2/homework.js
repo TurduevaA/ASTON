@@ -38,7 +38,7 @@
 
 // const result1 = multiply(2)(3)(4);
 // console.log(result1); // Вывод: 24
-// const result2 = multiply(2)(3)(4)(5);
+// const result2 = multiply ;
 // console.log(result2); // Вывод: 120
 
 // const result1 = multiply(2)(3)(4);
@@ -56,4 +56,3 @@
 //     Если аргумент arr состоит не из чисел, тогда функция должна выбросить ошибку.
 //     Текст ошибки: "В getUniqArray был передан невалидный параметр. Аргумент arr
 // должен быть массивом чисел".
-
