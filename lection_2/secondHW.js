@@ -62,5 +62,5 @@ function getUniqArray(arr) {
 }
 
 const newArray = [1, 2, 3, 4, 3, 2, 1];
-const uniqueArray = getUniqArray(newArray);
-console.log(uniqueArray); //  [1, 2, 3, 4]
+const uniqArray = getUniqArray(newArray);
+console.log(uniqArray); //  [1, 2, 3, 4]
